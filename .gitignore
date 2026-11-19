@@ -1,0 +1,6 @@
+node_modules/
+dist/
+shots/
+sounds.html
+scripts/
+.DS_Store
